@@ -17,10 +17,10 @@
 6. Produce a small project that:
     a. makes a connection to the database and executes the above SQL queries
     b. makes a connection to the database and inserts input data from the keyboard to the following tables:
-* Students
-        ii)    Trainers
-        iii)   Assignments
-        iv)    Courses
-        v)     Students per course
-        vi)    Trainers per course
-        vii)   Assignments per student per course
+    * Students
+    * Trainers
+    * Assignments
+    * Courses
+    * Students per course
+    * Trainers per course
+    * Assignments per student per course
