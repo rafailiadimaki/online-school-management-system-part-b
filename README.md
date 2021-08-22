@@ -15,8 +15,8 @@
     * All the assignments per course per student
     * A list of students that belong to more than one courses
 6. Produce a small project that:
-    a. makes a connection to the database and executes the above SQL queries
-    b. makes a connection to the database and inserts input data from the keyboard to the following tables:
+    a) makes a connection to the database and executes the above SQL queries
+    b) makes a connection to the database and inserts input data from the keyboard to the following tables:
         i)     Students
         ii)    Trainers
         iii)   Assignments
